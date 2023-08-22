@@ -1,9 +1,8 @@
 .foot{
-    position:absolute;
-    bottom: 0;
-    color-interpolation-filters: 0;
-    z-index: 10;
-    font-weight: 600;
+     font-weight: 600;
+     display:flex;
+     justify-content: center;
+     padding-bottom: 800px;
 }
 
 html,
